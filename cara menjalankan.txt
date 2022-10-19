@@ -1,0 +1,5 @@
+1. Pastikan terinstall "microsoft visual c++"
+2. Ekstrak file "ekskresi fbx x86.rar"
+3. Jalankan file "Ecs.exe"
+4. Arahkan kursor mouse pada objek 3D yang tampil untuk melakukan interaksi pada objek tersebut.
+5. Enjoy.
